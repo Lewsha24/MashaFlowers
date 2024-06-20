@@ -1,0 +1,427 @@
+ul {
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+}
+
+.m-1 {
+  margin: 1%;
+}
+.m-2 {
+  margin: 2%;
+}
+.m-3 {
+  margin: 3%;
+}
+.m-4 {
+  margin: 4%;
+}
+.m-5 {
+  margin: 5%;
+}
+
+.mt-1 {
+  margin-top: 1%;
+}
+.mt-2 {
+  margin-top: 2%;
+}
+.mt-3 {
+  margin-top: 3%;
+}
+.mt-4 {
+  margin-top: 4%;
+}
+.mt-5 {
+  margin-top: 5%;
+}
+
+.mb-1 {
+  margin-bottom: 1%;
+}
+.mb-2 {
+  margin-bottom: 2%;
+}
+.mb-3 {
+  margin-bottom: 3%;
+}
+.mb-4 {
+  margin-bottom: 4%;
+}
+.mb-5 {
+  margin-bottom: 5%;
+}
+
+.mtb-1 {
+  margin: 1% 0;
+}
+.mtb-2 {
+  margin: 2% 0;
+}
+.mtb-3 {
+  margin: 3% 0;
+}
+.mtb-4 {
+  margin: 4% 0;
+}
+.mtb-5 {
+  margin: 5% 0;
+}
+.c-white {
+  background-color: white;
+}
+
+.color-three {
+  background-color: #D2B3B959;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10%;
+}
+
+.gread  {
+  background-color: #223008;
+  ;
+}
+
+.flowers {
+  max-width: 100%;
+}
+
+.sale {
+  color: #f6f6f6;
+}
+
+img.mainLogo {
+  width: 100%;
+}
+
+.header-category{
+  color: black;
+  font-weight: 600;
+  padding: 1% 0;
+}
+ 
+.header-logo {
+  font-family: "Dancing Script", cursive;
+  font-size: 1.7rem;
+}
+
+.catalog-header {
+  font-size: 4rem;
+  text-align: center;
+  
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.catalog {
+  display: flex;
+  margin: 0 2%;
+
+}
+
+.catalog span{
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+}
+
+.price_catalog {
+  font-weight: 500;
+}
+
+button.btn_input {
+  background-color: #D2B3B9;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 1% 10%;
+  font-size: 20px;
+  margin: 10px auto;
+  display: block;
+}
+
+.block_green {
+  text-align: center;
+  color:white;
+  background-color:#2230088f;
+}
+
+.block_green input{
+  text-align: center;
+  color:#223008;
+  font-weight: 500;
+  font-size: 20px;
+  background-color:#e6ffba;
+  border-radius: 20px;
+  border: 2px solid #223008;
+  margin: 5%;
+  padding: 4% 2px;
+}
+
+.block_green .container {
+  border-top: 2px solid black;
+  margin-top: 2%;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.block_green h3 {
+  margin: 0;
+  font-size: 4rem;
+}
+
+.block_green p {
+  margin: 0;
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.btn-order-call {
+  border: 2px solid #223008;
+  background-color: #D2B3B9;
+  color: #223008;
+  font-size: 2rem;
+  border-radius: 20px;
+  padding: 3px 2%;
+}
+
+.container_about {
+  border: 2px solid #223008 ;
+  border-radius: 20px;
+  width: 500px;
+  text-align: center;
+}
+
+
+.container_about .header_about{
+  border-bottom: 2px solid #223008 ;
+  max-width: 500px;
+  padding: 5%;
+  font-size: 2rem ;
+  text-align: center;
+}
+
+.container_about .main_text{
+  padding: 5%;
+  text-align: center;
+}
+
+.img-about {
+  height: 70%;
+  width: 100%;
+}
+
+.advantage {
+  color: black;
+}
+.img-advantage {
+  display: flex;
+  margin: 10px auto
+}
+
+img.delivery  {
+  width: 100%;
+  height: 100%;
+  border-bottom: 2px solid black;
+}
+
+.header-delivery {
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  border-bottom: 2px solid black;
+  margin: 0 5%;
+}
+
+.header-feetback {
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  border-bottom: 2px solid black;
+  color:black;
+}
+
+.block-feetback {
+  color: black;
+  display: block;
+  border: 2px solid black;
+  border-radius: 35px;
+  margin: 10px 5px;
+  padding: 10px;
+}
+
+.block-feetback span {
+  display: flex;
+  justify-content: center;
+}
+
+footer .text {
+  font-family: "Dancing Script", cursive;
+  font-size: 1.7rem;
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+}
+.text-title{
+  font-family: "Dancing Script", cursive;
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  font-size: 5rem;
+}
+
+.icon-footer {
+  margin: 0 10%;
+}
+
+img.delivery-icon {
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+.delivery-text  {
+  list-style: inherit;
+  margin: 20px;
+}
+
+.basket {
+
+}
+
+.amount-product {
+  width: 20%;
+  display: flex;
+  border: 2px solid black;
+  border-radius: 23px;
+  margin: 15% 0 0;
+}
+
+button.minus {
+  border: none;
+  background: white;
+  display: block;
+  margin-left: 10px;
+  margin-top: 1px;
+  height: 20px;
+}
+
+button.plus {
+  border: none;
+  background: white;
+  margin-left: 11px;
+  width: 1px;
+}
+
+h3.basket-header {
+  display: flex;
+  font-size: 4rem;
+  border-bottom: 2px solid;
+  justify-content: center;
+}
+.block-product-1 {
+  margin-top: 2%;
+  padding-bottom: 1%;
+  border-bottom: 2px solid;
+}
+
+.block-product-2 {
+  margin-top: 2%;
+  padding-bottom: 1%;
+  border-bottom: 2px solid;
+}
+.block-product-3 {
+  margin-top: 2%;
+  padding-bottom: 1%;
+  border-bottom: 2px solid;
+}
+.block-product-4 {
+  margin-top: 2%;
+  padding-bottom: 1%;
+  border-bottom: 2px solid;
+}
+.block-product-5 {
+  margin-top: 2%;
+  padding-bottom: 1%;
+  border-bottom: 2px solid;
+}
+.block-product-6 {
+  margin-top: 2%;
+  padding-bottom: 1%;
+  border-bottom: 2px solid;
+}
+
+.image-product-basket {
+  width: 100%;
+}
+
+.btn-basket-product {
+  display: flex;
+  width: 50%;
+  margin: 45% auto 0;
+  padding: 2% 1%;
+  border: 2px solid black;
+  border-radius: 23px;
+}
+
+.img-btn-basket {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.count {
+  margin: 3px;
+}
+
+.result-block-basket {
+  display: flex;
+  justify-content: space-between;
+  font-size: 2rem;
+}
+
+form.form-order {
+  border-radius: 20px;
+  display: table;
+  width: 50%;
+  border: 2px solid black;
+  margin: 5% auto 0;
+  padding: 5% 5%;
+}
+
+input.input-form {
+  width: 98%;
+  border: none;
+  text-align: center;
+  border-bottom: 2px solid;
+  padding: 5%;
+  font-size: 1.7rem;
+}
+
+input.input-form:focus-visible {
+  border-bottom:2px solid ;
+}
+
+button.form-btn {
+
+  border: 2px solid #223008;
+  background-color: #D2B3B9;
+  color: #223008;
+  font-size: 1.6rem;
+  border-radius: 20px;
+  padding: 1px 2%;
+  margin: 5% 25% 0;
+}
+
+
+.sale {
+  color :white;
+}

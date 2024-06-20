@@ -45,7 +45,6 @@ const Catalog = () => {
 
 
     return (
-
         <Container>
             <h3 className="catalog-header mb-3">КАТАЛОГ</h3>
             <div className="catalog justify-content-center">

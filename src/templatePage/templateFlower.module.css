@@ -1,0 +1,75 @@
+.header {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 33px;
+    margin-right: 33px;
+}
+.textheader {
+    font-size: 60px;
+}
+.subContainer {
+    margin-left: 42px;
+    margin-right: 42px;
+}
+.contentText {
+    font-size: 48px;
+    margin-top: 72px;
+    margin-bottom: 72px;
+    line-height: 60px;
+}
+.partAdvice {
+    background: rgba(34, 48, 8, 0.3);
+    font-size: 48px;
+    line-height: 60px;
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+.headerAdvice {
+    text-align: center;
+    opacity: 0.75;
+}
+.hr {
+   border: 1px solid #000;
+   opacity: 1;
+   margin-bottom: 35px;
+}
+.hrfirst {
+    border: 1px solid #000;
+    opacity: 1;
+    width: 1500px;
+}
+.fstHr {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.additionFlowers {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+.additionFlowersHeaderText {
+    font-size: 64px;
+    margin-bottom: 84px;
+    text-align: center;
+    margin-top: 128px;
+}
+.btnsDiv {
+    display: flex;
+    margin-top: 238px;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+.btns {
+    width: 887px;
+    background-color: rgb(210, 179, 185, 0.35);
+    height: 170px;
+    font-size: 64px;
+    border: 2px solid #000;
+    border-radius: 40px;
+    margin-bottom: 40px;
+}
